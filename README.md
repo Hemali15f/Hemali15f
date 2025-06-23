@@ -33,19 +33,12 @@
 
 ---
 
-## 📂 Featured Projects
+<p align="center">
+  <a href="https://github.com/Hemali15f?tab=repositories">
+    <img src="https://img.shields.io/badge/🌟 My GitHub Repos-Click Here-blueviolet?style=for-the-badge" />
+  </a>
+</p>
 
-### 🔐 Secure E-Voting with Facial Recognition
-> AI-powered full-stack web app for secure online voting using facial authentication  
-`React.js · Tailwind CSS · Python · Node.js · OpenCV · MySQL`
-
-### 📁 Online Project Submission System
-> Upload and manage student projects with secure file handling  
-`HTML · CSS · JS · Node.js`
-
-### 🏨 Hotel Reviews Analysis using AI
-> Analyze customer reviews using Python & filter insights using Pandas  
-`Flask · Pandas · Bootstrap`
 
 ---
 

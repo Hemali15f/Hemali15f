@@ -61,7 +61,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/firke-hemali-159588257" target="_blank">
+  <a href="https://www.linkedin.com/in/hemali-firke-159588257" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hemali.firke@gmail.com">

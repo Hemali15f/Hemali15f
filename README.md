@@ -33,11 +33,8 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Hemali15f?tab=repositories">
-    <img src="https://img.shields.io/badge/🌟 My GitHub Repos-Click Here-blueviolet?style=for-the-badge" />
-  </a>
-</p>
+### 🚀 My GitHub Repositories  
+🔗 [github.com/Hemali15f](https://github.com/Hemali15f?tab=repositories)
 
 
 ---

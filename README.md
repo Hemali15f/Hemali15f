@@ -53,8 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hemali15f&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajThoke&show_icons=true&theme=tokyonight&cache_seconds=864
-" height="150"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Hemali15f&show_icons=true&theme=radical&cache_seconds=500" height="150"/>
 </p>
 
 ---

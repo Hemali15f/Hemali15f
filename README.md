@@ -29,7 +29,8 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-FF6347?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAASCAMAAABhEH5lAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADlQTFRF////AAAA7e3t////7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3tzrBb2gAAABp0Uk5T/////////////////////////////////////////////////////////////////////////////////////wA1xagcAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAVUlEQVR42mJgYGBgYGRgYWhkYmBjYGBgaFhYwMXFxcXFxQMDExQ0LCwsjAwNDc3MDCwsLC1tbWwsDAwMDMzMDAwMDKzs7Pz8DAwMDAwMDDQwMDAwMDAyYmJjZ2dlYAAAwDQAgBQlVroAAAAASUVORK5CYII=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-FF6347?style=for-the-badge&logo=oraclejava&logoColor=white"/>
+
 
 
 <!--   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>

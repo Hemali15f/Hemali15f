@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hemali Firke</h1>
-<h3 align="center">B.Tech Computer Engineering | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">B.Tech Computer Engineering | Full Stack Developer, Java | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=27F7F7&center=true&vCenter=true&width=700&lines=I+build+AI-Powered+Web+Solutions;Full+Stack+Developer+%7C+React+%7C+Python+%7C+Node;Lifelong+Learner+and+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=27F7F7&center=true&vCenter=true&width=700&lines=I+build+AI-Powered+Web+Solutions;Full+Stack+Developer+%7C+Java+%7C+React+%7C+Python+%7C+Node;Lifelong+Learner+and+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +10,8 @@
 ## 👩‍💻 About Me
 
 - 🎓 I'm pursuing B.Tech in **Computer Engineering** from RCPIT  
-- 🛠️ Passionate about **Web Development**, **AI**, and **real-world tech solutions**  
-- 🌱 Always learning new tools & frameworks (React, Flask, MySQL, etc.)  
+- 🛠️ Passionate about **Java**, **Spring Boot**, **Web Development**, **AI**, and **real-world tech solutions**  
+- 🌱 Always learning new tools & frameworks 
 - 📫 Reach me at **hemali.firke@gmail.com**  
 
 ---

@@ -42,19 +42,6 @@
 ### 🚀 My GitHub Repositories  
 🔗 [github.com/Hemali15f](https://github.com/Hemali15f?tab=repositories)
 
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<a href="https://github.com/Hemali15f">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemali15f&show_icons=true&theme=radical" alt="Hemali's GitHub Stats" />
-</a>
-
-</p>
-
 ---
 
 ## 🌐 Connect with Me

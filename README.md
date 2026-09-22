@@ -48,7 +48,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hemali15f&show_icons=true&theme=radical" />
+![Hemali's GitHub stats](https://github-readme-stats-five.vercel.app/api?username=Hemali15f&show_icons=true&theme=radical)
 
 </p>
 

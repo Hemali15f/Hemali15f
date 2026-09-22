@@ -48,7 +48,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-![Hemali's GitHub stats](https://github-readme-stats-five.vercel.app/api?username=Hemali15f&show_icons=true&theme=radical)
+
+<a href="https://github.com/Hemali15f">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemali15f&show_icons=true&theme=radical" alt="Hemali's GitHub Stats" />
+</a>
 
 </p>
 
